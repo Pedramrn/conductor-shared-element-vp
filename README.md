@@ -1,0 +1,1 @@
+Just go to `MainActivity` and uncomment the marked line with `TODO`
